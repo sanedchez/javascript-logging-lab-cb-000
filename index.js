@@ -1,2 +1,3 @@
-console.error("HALP")
-console.log ("i would be a logger.")
+console.error("help")
+console.log ("help")
+console.warn("help")
